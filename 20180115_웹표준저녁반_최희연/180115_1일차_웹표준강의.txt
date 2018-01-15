@@ -1,0 +1,30 @@
+강사이름 : 나일낙
+공유폴더 : \192.168.137.80
+
+
+
+웹표준
+
+1) HTML, CSS (기본 뼈대)
+2) HTML5 (반응형웹)
+3) JQuery (동적인 요소)
+
+
+HTML
+
+1. <title>은 <head>안에서만 쓴다.
+
+meta charset="utf-8"
+국제표준규격
+
+
+
+
+
+참고사이트 : 
+
+http://webdir.tistory.com/34
+
+https://notepad-plus-plus.org/
+
+https://code.visualstudio.com/
